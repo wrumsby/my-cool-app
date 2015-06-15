@@ -24,7 +24,7 @@
     "package.json"
   ],
   "dependencies": {
-    "a": "git@github.com:wrumsby/a.git#^1.0.0",
+    "a": "https://github.com/wrumsby/a.git#^1.0.0",
     "requirejs": "~2.1.18"
   }
 }
