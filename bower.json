@@ -25,6 +25,7 @@
   ],
   "dependencies": {
     "a": "git@github.com:wrumsby/a.git#^1.0.0",
-    "requirejs": "~2.1.18"
+    "requirejs": "~2.1.18",
+    "b": "git@github.com:wrumsby/b.git#~1.0.0"
   }
 }
