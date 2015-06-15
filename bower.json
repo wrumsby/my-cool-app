@@ -1,0 +1,26 @@
+{
+  "name": "my-cool-app",
+  "version": "1.0.0",
+  "homepage": "https://github.com/wrumsby/my-cool-app",
+  "authors": [
+    "Walter Rumsby"
+  ],
+  "description": "A really cool app (not really).",
+  "main": "app.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "app",
+    "demo",
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "package.json"
+  ]
+}
