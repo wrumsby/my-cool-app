@@ -6,5 +6,7 @@ require.config({
 });
 
 require(['a'], function (a) {
+  'use strict';
+
   a('#content');
 });
