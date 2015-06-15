@@ -7,6 +7,8 @@ require.config({
 });
 
 require(['a', 'b'], function (a, b) {
+  'use strict';
+
   var aInterval = Math.floor(Math.random() * 1000);
   var bInterval = Math.floor(Math.random() * 1000);
 
